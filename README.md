@@ -29,5 +29,4 @@ BookMyFlick integrates real-time movie data, secure authentication, and payment 
 
 ---
 
-## 📂 Project Structure
 
